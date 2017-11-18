@@ -1,7 +1,7 @@
 # spanishradicals.github.io
 
 Example of static video gallery intended to do divulgation with small resources
-https://spanishradicals.github.io
+- https://spanishradicals.github.io
 
 All our projects
 - https://spanishpolice.github.io
